@@ -1,0 +1,26 @@
+﻿2014/07/20 7:17:53 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\1223138\Documents\Visual Studio 2010\Projects\BattleMaster\BattleMaster\BattleMaster.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\BattleMaster.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\KAIT\応用プログラミングC\応用プログラミングC\Source.cpp"
+         Source.cpp
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1223138\Documents\Visual Studio 2010\Projects\BattleMaster\Debug\BattleMaster.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BattleMaster.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\1223138\Documents\Visual Studio 2010\Projects\BattleMaster\Debug\BattleMaster.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1223138\Documents\Visual Studio 2010\Projects\BattleMaster\Debug\BattleMaster.lib" /MACHINE:X86 Debug\BattleMaster.exe.embed.manifest.res
+         Debug\Source.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\BattleMaster.exe.embed.manifest" /manifest Debug\BattleMaster.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         BattleMaster.vcxproj -> C:\Users\1223138\Documents\Visual Studio 2010\Projects\BattleMaster\Debug\BattleMaster.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\BattleMaster.unsuccessfulbuild" を削除しています。
+         "Debug\BattleMaster.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\1223138\Documents\Visual Studio 2010\Projects\BattleMaster\BattleMaster\BattleMaster.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.75

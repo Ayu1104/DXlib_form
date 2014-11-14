@@ -1,0 +1,7 @@
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\bin\Release\Battle_AI.exe
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\bin\Release\Battle_AI.pdb
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Release\Battle_AI.Form1.resources
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Release\Battle_AI.Properties.Resources.resources
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Release\Battle_AI.csproj.GenerateResource.Cache
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Release\Battle_AI.exe
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Release\Battle_AI.pdb

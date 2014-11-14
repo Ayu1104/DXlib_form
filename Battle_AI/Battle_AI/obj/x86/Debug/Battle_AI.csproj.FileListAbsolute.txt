@@ -1,0 +1,8 @@
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\bin\Debug\Battle_AI.exe
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\bin\Debug\Battle_AI.pdb
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Debug\Battle_AI.Form1.resources
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Debug\Battle_AI.Properties.Resources.resources
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Debug\Battle_AI.csproj.GenerateResource.Cache
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Debug\Battle_AI.exe
+c:\users\1223138\documents\visual studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Debug\Battle_AI.pdb
+C:\Users\1223138\Documents\Visual Studio 2010\Projects\Battle_AI\Battle_AI\obj\x86\Debug\Battle_AI.csprojResolveAssemblyReference.cache
